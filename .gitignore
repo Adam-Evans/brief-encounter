@@ -1,0 +1,28 @@
+# Environment and Secret Credentials
+.env
+gmail_credentials.json
+gmail_token.json
+token_cache.bin
+o365_token.txt
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Log Files & Generated Summaries
+*.log
+auth_log.txt
+auth_output.log
+final_auth.log
+summary_*.md
+current_code.txt
+
+# Local Data & State
+data/tennis_progress.json
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
