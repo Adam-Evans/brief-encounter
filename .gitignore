@@ -18,9 +18,6 @@ final_auth.log
 summary_*.md
 current_code.txt
 
-# Local Data & State
-data/tennis_progress.json
-
 # Python Bytecode & Cache
 __pycache__/
 *.py[cod]
